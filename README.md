@@ -36,7 +36,7 @@ This project leverages Azure services (OpenAI, AI Search, Computer Vision) to:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Samyakjain2004/VidSense.git
+   git clone https://github.com/AGASX13/VidSense.git
    cd VidSense
 
 2. Install dependencies:
@@ -129,13 +129,10 @@ Start the Streamlit interface:
 - No Video Clips: Ensure ffmpeg-python and FFmpeg binary are installed.
 - Index Problems: Confirm index names and Azure Search connectivity.
 
-## 📜 License
-
-This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
 Samyak Jain
-🔗 LinkedIn - https://www.linkedin.com/in/samyak-jain-470b7b255
+🔗 LinkedIn - https://www.linkedin.com/in/saurabh-agastya/
 
-🔗 GitHub - https://github.com/Samyakjain2004
+🔗 GitHub - https://github.com/AGASX13
